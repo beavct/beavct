@@ -1,7 +1,7 @@
 ame: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
+  schedule: # execute every 1 minute
     - cron: "* */12 * * *"
   workflow_dispatch:
 
