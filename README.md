@@ -2,7 +2,7 @@
 
 ## 👾 *Institute of Mathematics and Statistics of the University of São Paulo | IME-USP*
 
-####  *Computer Science Student at University of São Paulo, Brazil*
+####  ☄️ *Computer Science Student at University of São Paulo, Brazil*
 
 ## Info:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beavct&show_icons=true&theme=great-gatsby)
