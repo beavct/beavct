@@ -25,5 +25,5 @@
 
 ![gif](https://64.media.tumblr.com/tumblr_m75uaxf7nv1qklrzno9_r1_400.gifv)
 
-![Snake animation](https://github.com/beavct/beavct/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/beavct/beavct/blob/output/github-contribution-grid-snake.svg)]
 
