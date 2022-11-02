@@ -5,7 +5,7 @@
 ####  ☄️ *Computer Science Student at University of São Paulo, Brazil*
 
 ## Info:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beavct&show_icons=true&theme=great-gatsby)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beavct&show_icons=true&theme=great-gatsby&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beavct&layout=compact&theme=great-gatsby)](https://github.com/beavct/github-readme-stats)
 
 ## Technologies:
